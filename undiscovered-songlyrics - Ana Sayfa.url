@@ -1,2 +1,33 @@
 [InternetShortcut]
 URL=https://undiscovered-songlyrics.tr.gg/
+<!doctype html>
+<html lang="tr">
+<head>...</head>
+<body>
+<!--PRELOADER-->
+<div class="page-loader" style="display: none;">...</div>
+<!--PRELOADER-->
+<!--HOME-->
+<section id="home" class="module-parallax module-fade module-full-height" style="height: 538px; top: 0px; opacity: 1;">
+<div class="hero-slider">
+<ul class="slides">...</ul>
+<ol class="flex-control-nav flex-control-paging"></ol>
+<ul class="flex-direction-nav">
+<li>
+<a class="flex-prev flex-disabled" href="#" tabindex="-1">...</a>
+</li>
+<li>...</li>
+</ul>
+</div>
+</section>
+<!--/HOME-->
+<!--WRAPPER-->
+<div class="wrapper">...</div>
+<!-- scroll-up-->
+<div class="scroll-up" style="display: none;">...</div<
+<!--Javascript files-->
+<script src="//theme.webme.com/designs/semantic/assets/js/jquery.flexslider-min.js"></script>
+<script src="//theme.webme.com/designs/semantic/assets/js/custom.js">
+</script>
+</body>
+</html>
